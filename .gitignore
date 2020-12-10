@@ -1,10 +1,7 @@
-*.iml
+# Ignore gradle project-specific files and folders
 .gradle
-/local.properties
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+gradle
+build
+
+# Ignore Intellij IDEA files
+.idea
